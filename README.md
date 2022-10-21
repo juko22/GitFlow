@@ -1,1 +1,2 @@
 # GitFlow
+Juris Gusevs
